@@ -6,6 +6,7 @@ This code provides a analysis to the question, what factor most affects the viol
 
 
 - Does population affect crime rate? 
+  
   Data: Data imported from census data using a csv file.
   Visulations: 
     - Bar graph of population by city.
@@ -16,6 +17,7 @@ This code provides a analysis to the question, what factor most affects the viol
 
 
 - Does poverty rate affect crime rate? 
+  
   Data: Data imported from statistica data using a csv file.
   Visulations: 
     - Bar graph of poverty rate by city.
@@ -26,6 +28,7 @@ This code provides a analysis to the question, what factor most affects the viol
   
   
 - Does law enforcement density affect crime rate?
+  
   Data: Data imported using a csv file.
   Visulations: 
     - Bar graph of police density by city.
@@ -35,6 +38,7 @@ This code provides a analysis to the question, what factor most affects the viol
 
 
 - Does education affect crime rate? 
+ 
   Data: Data imported from census data using a csv file.
   Visulations: 
     - Bar graph of highschool or higher and college or higher by city.
