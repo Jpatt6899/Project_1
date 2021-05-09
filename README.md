@@ -59,7 +59,7 @@ Our greatest limiation of this code would be needing a larger sample of citys. U
 
 Going Beyond: 
 
-To analyze this question further could compare the crime rate to more factors. Using more factors to compare would allow you to see if possible other postive correlations exist. 
+This data only offers correlation, not causation, so there are not many definitive solutions that can be drawn from this data. However, it does offer a jumping off point for further research and areas to target when attempting to reduce crime in an area. 
 
 
 
